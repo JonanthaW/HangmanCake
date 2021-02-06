@@ -1,7 +1,3 @@
-# HangmanCake
-Uma recriação do famoso jogo da forca com um toque mais açucarado.
-
-
 <h3 align="center">
   Projeto HangmanCake
 </h3>
@@ -12,5 +8,5 @@ Uma recriação do famoso jogo da forca com um toque mais açucarado. **HTML, JS
 
 ### Tela da aplicação
 
-![image](https://github.com/JonanthaW/Projeto-Dashboard-Bogus/blob/main/assets/img/photos/example1.jpg)
-![image](https://github.com/JonanthaW/Projeto-Dashboard-Bogus/blob/main/assets/img/photos/example2.jpg)
+![image](https://github.com/JonanthaW/HangmanCake/blob/main/assets/img/example1.jpg)
+![image](https://github.com/JonanthaW/HangmanCake/blob/main/assets/img/example2.jpg)
