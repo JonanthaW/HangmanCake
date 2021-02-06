@@ -1,0 +1,48 @@
+.user-lifeInterface {
+  display: grid;
+  justify-content: space-between;
+  grid-template-columns: repeat(2, auto);
+  height: 50vh;
+}
+
+.cooker-container {
+  margin-left: 5vw;
+}
+
+.cooker-img-content {
+  height: 110%;
+}
+
+.cooker-img-content img {
+  height: 55vh;
+  width: 17vw;
+  animation: cookerAnimation 1s linear  infinite alternate;
+}
+
+@keyframes cookerAnimation {
+  from {transform: rotate(3deg)};
+  to {transform: rotate(-3deg)};
+}
+
+.cake-container {
+  display: flex;
+  align-items: center;
+  margin-right: 5%;
+}
+
+.cake-img-content {
+  height: 35vh;
+  width: 17vw;
+  background-color: rgba(234, 196, 242);
+  padding: 10px;
+  border: none;
+  border-right: 5px solid brown;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cake-img-content img {
+  width: 85%;
+}

@@ -1,0 +1,62 @@
+.pontuation_screen {
+  position: absolute;
+  background-color: rgba(0,0,0,.4);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  top: 0%;
+}
+
+.win, .lost {
+  background-color: lightpink;
+  border: 10px solid rgba(189, 57, 147);
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  padding: 2vw;
+  width: 30vw;
+  height: 67vh;
+}
+
+.win {
+  display: none;
+}
+
+.lost {
+  display: none;
+}
+
+.win p, .lost p {
+  font-size: 3vw;
+  color: white;
+  font-family: 'Mali', cursive !important;
+}
+
+.win img, .lost img {
+  height: 32vh;
+}
+
+.doll-cake {
+  display: flex;
+  justify-content: center;
+  padding: 1vw;
+}
+
+.button_win, .button_lose {
+  display: flex;
+  justify-content: center;
+}
+
+.button_win button, .button_lose button {
+  background-color: rgba(189, 57, 147);
+  height: 5vh;
+  width: 7vw;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 2vw;
+  color: white;
+  font-family: 'Mali', cursive !important;
+}

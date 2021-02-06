@@ -1,0 +1,46 @@
+.main-container-letters {
+  background-color: rgba(237, 81, 187);
+  border-radius: 5px;
+  border: 1.5vw solid rgb(189, 57, 147);
+  border-radius: 10px;
+}
+
+.letters {
+  display: grid;
+  grid-template-columns: repeat(12, auto);
+  grid-column-gap: 1.3vw;
+  grid-row-gap: 1.3vw;
+  justify-content: center;
+  padding-bottom: 5vw;
+}
+
+.letters button {
+  display: flex;
+  height: 9vh;
+  width: 6vw;
+  background-color: white;
+  color: black;
+  font-size: 3vw;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 5px;
+  border: .2vw solid black;
+  font-family: 'Righteous', cursive;
+}
+
+#used_letters {
+  color: white;
+  font-size: 2vw;
+  font-weight: bold;
+  margin: .5vw 0 1vw 1.5vw;
+}
+
+#chosen_word {
+  font-size: 5vw;
+  color: white;
+  letter-spacing: 4vw;
+  text-align: center;
+  padding: .5vw;
+}
