@@ -4,7 +4,7 @@
 
 ## :rocket: Sobre a página
 
-Uma recriação do famoso jogo da forca com um toque mais açucarado. **HTML, JS, CSS**.
+Uma recriação do famoso jogo da forca com um toque mais açucarado, utilizando **HTML, JS, CSS**.
 
 ### Tela da aplicação
 
