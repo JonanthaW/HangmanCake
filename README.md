@@ -15,8 +15,11 @@ Uma recriação do famoso jogo da forca com um toque mais açucarado.
 ![image](https://github.com/JonanthaW/HangmanCake/blob/main/assets/img/example1.jpg)
 ![image](https://github.com/JonanthaW/HangmanCake/blob/main/assets/img/example2.jpg)
 
-### :computer: Baixando o conteúdo:
+
+### :computer: Downloading content
+
+<p>Feel free to download this repository and use it however you like. </p>
 
 ```bash
-$ git clone https://github.com/JonanthaW/Arduino-Projects.git
+$ git clone https://github.com/JonanthaW/HangmanCake.git
 ```
