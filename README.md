@@ -18,7 +18,7 @@ Uma recriação do famoso jogo da forca com um toque mais açucarado.
 
 ### :computer: Downloading content
 
-<p>Feel free to download this repository and use it however you like. </p>
+<p>Baixe este repositório e use-o como quiser. </p>
 
 ```bash
 $ git clone https://github.com/JonanthaW/HangmanCake.git
